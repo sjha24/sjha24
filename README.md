@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sauravk02827576" target="blank"><img src="https://img.shields.io/twitter/follow/sauravk02827576?logo=twitter&style=for-the-badge" alt="sauravk02827576" /></a> </p>
 
-- 🌱 I’m currently learning **DSA(Java)**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **DSA(JAVA) || HTML || CSS ||JS || Bootstrap**
+- 💬 Ask me about **DSA(JAVA) || OOPs || Spring Boot || Hibernate || Git || MySQL || HTML || CSS || JS || Bootstrap**
 
 - 📫 How to reach me **saurav24021998@gmail.com**
 
